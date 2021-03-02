@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NissimIluz
-- B.Sc. in Computer Science and Biology graduate at The Open University
+- B.Sc. in Computer Science and Biology graduate at The Open University.
+- Looking for a job in israel and new and exciting projects.
 
 <!---
 NissimIluz/NissimIluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

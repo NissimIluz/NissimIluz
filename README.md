@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NissimIluz
+- 👋 Hi, I’m @Nissim Iluz
 - B.Sc. in Computer Science and Biology graduate at The Open University.
 - full stack developer
 - Mail eiloz61@gmail.com

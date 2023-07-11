@@ -4,7 +4,7 @@
 - email eiloz61@gmail.com
 
 Software:
-.NET, python, Angular, SQL/ MySQL, MongoDB, TypeScript, Java, Prolog, C/C++, React, css.
+.NET, .NETcore(5+), ASP.NET, EntityFramework, Angular(13+), NGRX, RxJS, python, Flask, SQL/ MySQL, MongoDB, TypeScript, React,  jQuery, AJAX , Vue,  css, Bootstrap, Java, Prolog. Full Stack development, API design knowledge, MVC, RPA development.
 
 <!---
 NissimIluz/NissimIluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

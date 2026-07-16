@@ -1,24 +1,29 @@
-# Hi there! 👋 I'm Nissim Iluz
+# Hi, I'm Nissim Iluz 👋
 
-### 🚀 About Me  
-I'm a passionate **Software Developer** with a strong background in **backend development, AI/ML, and full-stack engineering**. I specialize in designing and implementing scalable, high-performance systems, leveraging cutting-edge technologies to build efficient and maintainable solutions.
+**Senior Full Stack Developer | .NET · Python · AI/ML**
+I build backend systems, document-processing pipelines, automations, and complex integrations — and own them end to end, from architecture to production.
 
-### 💻 Tech Stack  
-- **Languages:** .NET (C#), Python, JavaScript/TypeScript  
-- **Backend:** ASP.NET Core, Web API, Entity Framework, FastAPI  
-- **Frontend:** Angular, React  
-- **Databases:** SQL Server, MongoDB, PostgreSQL  
-- **AI/ML:** Machine Learning, Deep Learning, NLP, Data Science  
-- **Architecture:** Microservices, Event-Driven, CQRS, Caching, Distributed Systems  
-- **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD Pipelines  
+- 🔭 Currently: sole developer responsible for all systems at Kenes (80% part-time)
+- 🧬 B.Sc. in Computer Science & Life Sciences (honors) — ML research project for oncogene identification
+- 🤖 Hands-on with ML/NLP in production: document analysis & classification, data pipelines
+- 💼 **Available for part-time projects (1–2 days/week)** — automations, Document AI, data, integrations
 
-### 📈 Experience  
-- Developed **high-performance backend services** and microservices using .NET and Python  
-- Built **AI-powered solutions**, including document classification, predictive analytics, and data pipelines  
-- Designed and implemented **scalable and concurrent real-time systems**  
-- Worked on **full-stack applications**, integrating RESTful APIs, databases, and frontend frameworks  
+### Selected Work
 
-### 🔗 Let's Connect!  
-- 📧 [Email](mailto:nissimiluz1@gnail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nissimiluz)  
-- 🔗 [GitHub](https://github.com/NissimIluz)  
+| Project | What it shows |
+|---------|---------------|
+| [doc-classify](https://github.com/NissimIluz/doc-classify) | Document classification API — FastAPI, ML pipeline, Hebrew & English support, Docker, CI |
+| [FullStackProject](https://github.com/NissimIluz/FullStackProject) | Document-sharing platform — .NET (C#), end-to-end |
+| [NewsSite](https://github.com/NissimIluz/NewsSite) | News site with a data-management system — TypeScript |
+
+### Tech Stack
+
+**Backend:** .NET Core, C#, Python, Node.js, REST APIs, Microservices, RabbitMQ
+**Frontend:** Angular, React, TypeScript
+**Data:** PostgreSQL, MS SQL, MongoDB, Elastic
+**Cloud & DevOps:** Azure, AWS, Docker, Git, CI/CD
+**AI/ML:** Machine Learning, NLP, Document Processing
+
+### Let's Connect
+
+📧 [nissimiluz1@gmail.com](mailto:nissimiluz1@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nissimiluz)

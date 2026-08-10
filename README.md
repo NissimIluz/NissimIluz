@@ -8,13 +8,6 @@ I build backend systems, document-processing pipelines, automations, and complex
 - 🤖 Hands-on with ML/NLP in production: document analysis & classification, data pipelines
 - 💼 **Available for part-time projects (1–2 days/week)** — automations, Document AI, data, integrations
 
-### Selected Work
-
-| Project | What it shows |
-|---------|---------------|
-| [doc-classify](https://github.com/NissimIluz/doc-classify) | Document classification API — FastAPI, ML pipeline, Hebrew & English support, Docker, CI |
-| [FullStackProject](https://github.com/NissimIluz/FullStackProject) | Document-sharing platform — .NET (C#), end-to-end |
-| [NewsSite](https://github.com/NissimIluz/NewsSite) | News site with a data-management system — TypeScript |
 
 ### Tech Stack
 
